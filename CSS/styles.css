@@ -1,0 +1,91 @@
+body{
+  margin: 0px;
+
+}
+h1{
+  font-size: 60px;
+  margin-top: 0px;
+  position: absolute;
+  left: 60%;
+  top: 40%;
+  font-weight: lighter;
+  margin-bottom: 0px;
+  font-family: 'Pacifico', cursive;
+}
+
+.one{
+  font-family: 'Pacifico', cursive;
+  position: absolute;
+  left: 60%;
+  top: 55%;
+  font-size: 45px;
+  color: #3ca59d;
+  ;
+}
+section{
+  text-align: center;
+  background-color:  #ff4c68;
+  padding: 20px;
+  margin: 20px 0 20px;
+}
+
+.img1{
+  height: 400px;
+  width: 350px;
+
+}
+.img2{
+  height: 400px;
+  width: 350px;
+}
+.arrow{
+  color: black;
+}
+
+.top-container{
+  background-image: url("bcg4.jpg");
+  opacity: 90%;
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+#memories{
+  background-color: #fce8d5;
+  padding:5% 7%;
+
+}
+img{
+  border-style: groove;
+  height: 500px;
+  width: 400px;
+  margin: 80px;
+  border-color: #e7dfd5;
+
+}
+#credits{
+  background-color: #66BFBF;
+  padding: 50px;
+  text-align: center;
+  color:#11999E;
+  margin-top: 20px;
+}
+#credits:hover{
+  color: white;
+}
+p{
+  font-weight: bolder;
+  font-size: 40px;
+
+}
+#KuchShabd{
+  text-align: center;
+  padding: 50px;
+  margin: 20px 0px;
+  background-color: #ff4c68;
+  font-family: 'Amiri', serif;
+
+}
